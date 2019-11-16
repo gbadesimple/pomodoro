@@ -50,14 +50,14 @@ button:hover {
   margin:20px auto;
   padding:20px;
   text-align:center;
-  background : #333;
+  background : purple;
 }
 
 #timer{
-  color:#f00;
+  color:#E66C2C;
   font-size:50px;
   margin:10px auto;
-  border : 5px solid red;
+  border : 5px solid #ADD8E6;
   border-radius:50%;
   width:200px;
   height:200px;
